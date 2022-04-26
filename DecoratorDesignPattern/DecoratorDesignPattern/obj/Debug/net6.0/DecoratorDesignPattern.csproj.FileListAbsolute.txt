@@ -1,0 +1,15 @@
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\bin\Debug\net6.0\DecoratorDesignPattern.exe
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\bin\Debug\net6.0\DecoratorDesignPattern.deps.json
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\bin\Debug\net6.0\DecoratorDesignPattern.runtimeconfig.json
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\bin\Debug\net6.0\DecoratorDesignPattern.dll
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\bin\Debug\net6.0\DecoratorDesignPattern.pdb
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.csproj.AssemblyReference.cache
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.AssemblyInfoInputs.cache
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.AssemblyInfo.cs
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.dll
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\refint\DecoratorDesignPattern.dll
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.pdb
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\DecoratorDesignPattern.genruntimeconfig.cache
+C:\Code\3.1 Design Patterns\DecoratorDesignPattern\DecoratorDesignPattern\obj\Debug\net6.0\ref\DecoratorDesignPattern.dll
