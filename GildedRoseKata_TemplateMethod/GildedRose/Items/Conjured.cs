@@ -1,4 +1,6 @@
-﻿namespace GildedRoseKata;
+﻿using System;
+
+namespace GildedRoseKata;
 
 public class Conjured : InventoryItem
 {
@@ -10,12 +12,14 @@ public class Conjured : InventoryItem
 
     protected override void UpdateQuality()
     {
+        Console.WriteLine("Conjured update quality implementation.");
         DecreaseQuality();
         DecreaseQuality();
     }
 
     protected override void ProcessExpired()
     {
+        Console.WriteLine("Conjured process expired implementation.");
         DecreaseQuality();
         DecreaseQuality();
     }

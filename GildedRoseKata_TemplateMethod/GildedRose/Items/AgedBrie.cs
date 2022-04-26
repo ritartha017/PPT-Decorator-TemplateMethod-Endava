@@ -17,6 +17,7 @@ public class AgedBrie : InventoryItem
     // implementation.
     protected override void ProcessExpired()
     {
+        Console.WriteLine("AgedBrie process expired implementation.");
         IncreaseQuality();
     }
 

@@ -53,6 +53,7 @@ public abstract class InventoryItem
 
     protected virtual void ProcessExpired()
     {
+        Console.WriteLine("Default process expired implementation.");
         DecreaseQuality();
     }
 

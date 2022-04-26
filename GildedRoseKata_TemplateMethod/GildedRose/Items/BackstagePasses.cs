@@ -1,4 +1,6 @@
-﻿namespace GildedRoseKata;
+﻿using System;
+
+namespace GildedRoseKata;
 
 public class BackstagePasses : InventoryItem
 {
@@ -10,11 +12,13 @@ public class BackstagePasses : InventoryItem
 
     protected override void ProcessExpired()
     {
+        Console.WriteLine("BackstagePasses process expired implementation.");
         item.Quality = 0;
     }
 
     protected override void UpdateQuality()
     {
+        Console.WriteLine("BackstagePasses update quality implementation.");
         IncreaseQuality();
 
         if (item.SellIn < 11)
