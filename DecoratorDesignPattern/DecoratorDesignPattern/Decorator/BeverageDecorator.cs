@@ -1,6 +1,6 @@
-﻿using DecoratorDesignPattern.DecoratorPattern.Component;
+﻿using DecoratorDesignPattern.Component;
 
-namespace DecoratorDesignPattern.DecoratorPattern.Decorator;
+namespace DecoratorDesignPattern.Decorator;
 
 // The base Decorator class follows the same interface as the other
 // components. The primary purpose of this class is to define the wrapping

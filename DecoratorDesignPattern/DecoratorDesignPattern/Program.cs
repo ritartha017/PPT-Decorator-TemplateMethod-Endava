@@ -1,12 +1,13 @@
 ﻿using DecoratorDesignPattern;
-using DecoratorDesignPattern.DecoratorPattern.ConcreteComponent;
-using DecoratorDesignPattern.DecoratorPattern.ConcreteDecorator;
+using DecoratorDesignPattern.ConcreteComponent;
+using DecoratorDesignPattern.ConcreteDecorator;
 
 Client client = new();
 
 var espresso = new Espresso();
 Console.WriteLine("Client: I get a simple component:");
 client.ClientCode(espresso);
+
 Console.WriteLine();
 
 // ...as well as decorated ones.

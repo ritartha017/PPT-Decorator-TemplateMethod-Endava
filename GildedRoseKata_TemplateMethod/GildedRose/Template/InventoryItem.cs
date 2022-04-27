@@ -2,10 +2,8 @@
 
 namespace GildedRoseKata;
 
-// The abstract class defines a template method that contains a
-// skeleton of some algorithm composed of calls, usually to
-// abstract primitive operations. Concrete subclasses implement
-// these operations, but leave the template method itself
+// The abstract class defines a template method that contains a skeleton of some algorithm composed of calls, usually to
+// abstract primitive operations. Concrete subclasses implement these operations, but leave the template method itself
 // intact.
 public abstract class InventoryItem
 {

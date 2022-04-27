@@ -1,4 +1,4 @@
-﻿using DecoratorDesignPattern.DecoratorPattern.Component;
+﻿using DecoratorDesignPattern.Component;
 
 namespace DecoratorDesignPattern
 {

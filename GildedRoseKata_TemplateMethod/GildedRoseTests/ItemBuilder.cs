@@ -29,7 +29,6 @@ public class ItemBuilder
         return this;
     }
 
-
     public Item Build() => new()
     {
         Name = _name,

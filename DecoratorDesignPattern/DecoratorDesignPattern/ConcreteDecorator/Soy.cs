@@ -1,7 +1,7 @@
-﻿using DecoratorDesignPattern.DecoratorPattern.Component;
-using DecoratorDesignPattern.DecoratorPattern.Decorator;
+﻿using DecoratorDesignPattern.Component;
+using DecoratorDesignPattern.Decorator;
 
-namespace DecoratorDesignPattern.DecoratorPattern.ConcreteDecorator;
+namespace DecoratorDesignPattern.ConcreteDecorator;
 
 // Decorators can execute their behavior either before or after the call to
 // a wrapped object.

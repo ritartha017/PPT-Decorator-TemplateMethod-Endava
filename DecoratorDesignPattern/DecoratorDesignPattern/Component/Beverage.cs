@@ -1,4 +1,4 @@
-﻿namespace DecoratorDesignPattern.DecoratorPattern.Component;
+﻿namespace DecoratorDesignPattern.Component;
 
 // The base Component interface defines operations that can be altered by
 // decorators.

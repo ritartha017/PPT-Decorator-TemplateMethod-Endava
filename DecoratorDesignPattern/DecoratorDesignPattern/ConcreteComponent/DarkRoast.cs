@@ -1,6 +1,6 @@
-﻿using DecoratorDesignPattern.DecoratorPattern.Component;
+﻿using DecoratorDesignPattern.Component;
 
-namespace DecoratorDesignPattern.DecoratorPattern.ConcreteComponent;
+namespace DecoratorDesignPattern.ConcreteComponent;
 
 // Concrete Components provide default implementations of the operations.
 // There might be several variations of these classes.
